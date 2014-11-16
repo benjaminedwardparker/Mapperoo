@@ -40,3 +40,7 @@ gem 'spring',        group: :development
 
 gem 'geocoder'
 gem 'rails_12factor'
+gem 'active_model_serializers'
+gem 'faraday'
+gem 'faker'
+gem 'activesupport', '~> 4.1.6'
